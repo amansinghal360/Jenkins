@@ -20,8 +20,7 @@ public class SecondTest {
 	
 	
 	@After
-	public void tearDown()
-	{ 
+	public void tearDown(){ 
 		driver.quit();
 	}
 	
